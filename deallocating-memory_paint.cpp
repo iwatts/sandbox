@@ -19,7 +19,6 @@ int main() {
    kitchenPaint->gallonPaint = 26.3;
 
    /* Your solution goes here  */
-   
    delete kitchenPaint;
 
    return 0;

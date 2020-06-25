@@ -20,7 +20,7 @@ PhonePlan::PhonePlan() {     // Default constructor
 // FIXME: Create a second constructor with numMinutes and numMessages parameters.
 
 /* Your solution goes here  */
-PhonePlan::PhonePlan(int numMinutes, int numMessages) {     // second constructor
+PhonePlan::PhonePlan(int numMinutes, int numMessages) {     // secondary constructor
    freeMinutes  = numMinutes;
    freeMessages = numMessages;
    return;
